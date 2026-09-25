@@ -1,0 +1,6 @@
+{
+  "name": "ระบบสมัครพนักงานออนไลน์ & HR Recruitment Portal",
+  "description": "ระบบสมัครงานออนไลน์ ตรวจสอบสถานะแบบเรียลไทม์ คัดกรองผู้สมัครด้วย AI แดชบอร์ด HR จัดเก็บข้อมูลปลอดภัยตามมาตรฐาน PDPA พร้อมแจ้งเตือนอีเมลและรายงานสรุป",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
